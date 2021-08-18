@@ -1,0 +1,10 @@
+data/Dataset_10/motil75_00050.jpg
+data/Dataset_10/S40-45_-3_BURAM_TENGAH_4s_010.jpg
+data/Dataset_10/40-45%-3_4s00065.jpg
+data/Dataset_10/S70_-3_6s_23.jpg
+data/Dataset_10/motilitas_90_44.jpg
+data/Dataset_10/S70_-3_6s_12.jpg
+data/Dataset_10/S70_-3_6s_21.jpg
+data/Dataset_10/S80_-3_(2)ICIACTAawalBURAM_1s_10.jpg
+data/Dataset_10/S40-45_-3_BURAM_TENGAH_4s_024.jpg
+data/Dataset_10/motilitas_90_47.jpg

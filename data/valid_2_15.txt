@@ -1,0 +1,15 @@
+data/Dataset_10/motil40_4s_00007.jpg
+data/Dataset_10/motilitas_90_48.jpg
+data/Dataset_10/motil75_00052.jpg
+data/Dataset_10/motil75_00075.jpg
+data/Dataset_10/motil40_4s_00032.jpg
+data/Dataset_10/S40-45_-3_BURAM_TENGAH_4s_050.jpg
+data/Dataset_10/S40-45_-3_BURAM_TENGAH_4s_024.jpg
+data/Dataset_10/P_30%_gerak_3_3s_00070.jpg
+data/Dataset_10/S80_-3_(2)ICIACTAawalBURAM_1s_04.jpg
+data/Dataset_10/P_30%_gerak_3_3s_00025.jpg
+data/Dataset_10/motil40_4s_00065.jpg
+data/Dataset_10/S80_-3_(2)ICIACTAawalBURAM_1s_07.jpg
+data/Dataset_10/motilitas_90_18.jpg
+data/Dataset_10/S70_-3_6s_53.jpg
+data/Dataset_10/S70%-2-3_4s_00036.jpg

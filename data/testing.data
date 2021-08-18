@@ -1,5 +1,0 @@
-classes= 1
-train  = data/trainingRand.txt
-valid  = data/testing.txt
-names = data/sperm.names
-backup = backup/

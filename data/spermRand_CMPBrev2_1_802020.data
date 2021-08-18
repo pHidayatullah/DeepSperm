@@ -1,0 +1,5 @@
+classes=1
+train=data/train_1_80.txt
+valid=data/valid_1_20.txt
+names=data/sperm.names
+backup=backup/
